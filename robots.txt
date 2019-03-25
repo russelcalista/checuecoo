@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://evaengeiy.adamwhitcroft.com/sitemap.xml
